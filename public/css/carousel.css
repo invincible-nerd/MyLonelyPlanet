@@ -1,0 +1,8 @@
+.item img {
+    /* height: 450px !important;
+    width: 850px !important; */
+    object-fit: cover;
+    object-position: center;
+    height: 50vh;
+    overflow: hidden;
+}
