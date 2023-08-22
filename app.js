@@ -31,7 +31,9 @@ const UserRoutes = require("./routes/users")
 
 const secret = process.env.SECRET || "thisshouldbeabettersecret!"
 
+
 const dbURL = process.env.DB_URL || "mongodb://localhost:27017/yelp"
+//const dbURL = "mongodb://localhost:27017/yelp"
 //"mongodb://localhost:27017/yelp"
 //process.env.DB_URL
 mongoose.connect(dbURL, {

@@ -6,3 +6,7 @@
     height: 50vh;
     overflow: hidden;
 }
+
+.review-text {
+    font-family: cursive;
+}
