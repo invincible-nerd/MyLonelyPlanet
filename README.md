@@ -1,3 +1,5 @@
 # MyLonelyPlanet
-My Lonely Planet tourist website
+My Lonely Planet tourist website.
+
+
 Please go to master branch.
